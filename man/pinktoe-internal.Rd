@@ -24,8 +24,6 @@ genericcommonhtml(file, append)
 
 kyphosisprint(yval, file = "", append = F)
 
-kyphosisprint(yval, file = "", append = F)
-
 kyphosis.text(n, file = "", append = F)
 
 kyphosistittext(label)

@@ -1,6 +1,3 @@
-pinktoe
-=======
-
-Converts S tree objects to HTML/perl files for interactive traversal
-
-pinktoe                  Does the conversion!
+pinktoe-internal         Internal pinktoe functions
+pinktoe                  Pinktoe: convert S trees to web files for
+                         interactive traversal.
